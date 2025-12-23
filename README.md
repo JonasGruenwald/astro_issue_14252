@@ -21,6 +21,7 @@ Clicking the checkbox renders the child component and its styles are applied cor
 Run in production mode, to see the broken / incorrect behavour
 
 ```
+pnpm build
 pnpm preview
 ```
 
